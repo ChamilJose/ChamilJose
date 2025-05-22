@@ -2,14 +2,29 @@
 
 I am a Computer Engineering student at **ULPGC** (University of Las Palmas de Gran Canaria). I have always been passionate about software development and its role in solving real-world problems. I had the opportunity to study abroad in Poland through the Erasmus program at the **Cracow University of Technology**, which broadened my perspective and deepened my interest in international tech collaboration.
 
+---
+
 # 📚 GitHub Profiles & Contact
 
-- 🎓 [Study Account](https://github.com/chamilstudy/)
-- 💼 [Work Account](https://github.com/chamilwork/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details)  
-  <a href="https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile"></a>
+Below are my main coding profiles and ways to reach me:
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
+  🎓 [Study Account](https://github.com/chamilstudy/) — My personal learning and projects repository.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
+  💼 [Work Account](https://github.com/chamilwork/) — Professional work and collaborations.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
+  🔗 [LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details) — Connect with me professionally.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
+  📧 [chamil.workacc@gmail.com](mailto:chamil.workacc@gmail.com) — Feel free to email me.
+
+---
 
 # 📊 Most Used Languages
+
+These charts show my most used programming languages based on GitHub stats.
 
 ## Study Account
 
@@ -19,7 +34,11 @@ I am a Computer Engineering student at **ULPGC** (University of Las Palmas de Gr
 
 ![Top Langs - Work](https://github-readme-stats.vercel.app/api/top-langs/?username=chamilwork&layout=compact&langs_count=8)
 
+---
+
 # 🛠️ Tools & Technologies
+
+Here are the languages, frameworks, and tools I work with regularly.
 
 ## 🧑‍💻 Languages
 
