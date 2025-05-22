@@ -2,16 +2,12 @@
 
 I am a Computer Engineering student at **ULPGC** (University of Las Palmas de Gran Canaria). I have always been passionate about software development and its role in solving real-world problems. I had the opportunity to study abroad in Poland through the Erasmus program at the **Cracow University of Technology**, which broadened my perspective and deepened my interest in international tech collaboration.
 
-# 📚 Profiles & Contact
-
 # 📚 GitHub Profiles & Contact
 
 - 🎓 [Study Account](https://github.com/chamilstudy/)
 - 💼 [Work Account](https://github.com/chamilwork/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details)  
-  <a href="https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="vertical-align:middle; margin-left:5px;" />
-  </a>
+  <a href="https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile"></a>
 
 # 📊 Most Used Languages
 
