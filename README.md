@@ -9,16 +9,16 @@ I am a Computer Engineering student at **ULPGC** (University of Las Palmas de Gr
 Below are my main coding profiles and ways to reach me:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
-  🎓 [Study Account](https://github.com/chamilstudy/) — My personal learning and projects repository.
+  [Study Account](https://github.com/chamilstudy/) — My personal learning and projects repository.
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
-  💼 [Work Account](https://github.com/chamilwork/) — Professional work and collaborations.
+  [Work Account](https://github.com/chamilwork/) — Professional work and collaborations.
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
-  🔗 [LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details) — Connect with me professionally.
+  [LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details) — Connect with me professionally.
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
-  📧 [chamil.workacc@gmail.com](mailto:chamil.workacc@gmail.com) — Feel free to email me.
+  [chamil.workacc@gmail.com](mailto:chamil.workacc@gmail.com) — Feel free to email me.
 
 ---
 
