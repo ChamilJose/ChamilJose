@@ -4,27 +4,14 @@ I am a Computer Engineering student at **ULPGC** (University of Las Palmas de Gr
 
 # 📚 Profiles & Contact
 
-<p style="display:flex; flex-wrap: wrap; gap: 20px; align-items:center;">
+# 📚 GitHub Profiles & Contact
 
-  <a href="https://github.com/chamilstudy/" target="_blank" rel="noopener noreferrer" aria-label="GitHub Study Account" style="display:flex; align-items:center; gap:5px;">
-    🎓 Study Account
+- 🎓 [Study Account](https://github.com/chamilstudy/)
+- 💼 [Work Account](https://github.com/chamilwork/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details)  
+  <a href="https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="vertical-align:middle; margin-left:5px;" />
   </a>
-
-  <a href="https://github.com/chamilwork/" target="_blank" rel="noopener noreferrer" aria-label="GitHub Work Account" style="display:flex; align-items:center; gap:5px;">
-    💼 Work Account
-  </a>
-
-  <a href="https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile" style="display:flex; align-items:center; gap:5px;">
-    🔗 LinkedIn
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" />
-  </a>
-
-  <a href="mailto:chamil.workacc@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="Email chamil.workacc@gmail.com" style="display:flex; align-items:center; gap:5px;">
-    📧 chamil.workacc@gmail.com
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="20" height="20" />
-  </a>
-
-</p>
 
 # 📊 Most Used Languages
 
