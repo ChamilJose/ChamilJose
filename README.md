@@ -14,3 +14,8 @@
 ### Top Langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8)
+
+### Icons
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
