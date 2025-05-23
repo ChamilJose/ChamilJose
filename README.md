@@ -1,6 +1,8 @@
 # 👋 About Me
 
-Hi! I’m a **Computer Engineering** student at **ULPGC** with a passion for **software development** and **graphic design**. I enjoy blending technical skills with creativity to build **web** and **app** solutions that solve real-world problems and improve user experiences.
+Hi there!
+
+I’m a **Computer Engineering** student at **ULPGC** with a passion for **software development** and **graphic design**. I enjoy blending technical skills with creativity to build **web** and **app** solutions that solve real-world problems and improve user experiences.
 
 Alongside coding, I have a strong interest in **photography**, which enhances my eye for detail in **UI/UX** design. I also had the opportunity to study abroad in **Poland** through the **Erasmus program**, where I gained valuable insights into advanced programming and international tech ecosystems.
 
