@@ -76,7 +76,7 @@ Stats for my **Work Account** on GitHub, showing professional projects and contr
   <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Java" />
   <img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-121212?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-121212?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
   <img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
@@ -96,7 +96,7 @@ Stats for my **Work Account** on GitHub, showing professional projects and contr
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/AWS-121212?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-121212?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-121212?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
@@ -113,7 +113,7 @@ Stats for my **Work Account** on GitHub, showing professional projects and contr
 ## 🎨 Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Tailwind CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
 </p>
 
 ## 🖌️ Design
@@ -133,5 +133,5 @@ Stats for my **Work Account** on GitHub, showing professional projects and contr
   <img src="https://img.shields.io/badge/Trello-121212?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
   <img src="https://img.shields.io/badge/Confluence-121212?style=for-the-badge&logo=confluence&logoColor=172B4D" alt="Confluence" />
   <img src="https://img.shields.io/badge/Jira-121212?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-121212?style=for-the-badge&logo=microsoftteams&logoColor=6264A7" alt="Teams" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams-121212?style=for-the-badge&logo=microsoftteams&logoColor=2D72D9" alt="Microsoft Teams" />
 </p>
