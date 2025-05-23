@@ -45,21 +45,6 @@ Here are my main coding profiles and ways to connect:
 - **[LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details)**: Let's connect professionally!
 - **Email**: [chamil.workacc@gmail.com](mailto:chamil.workacc@gmail.com)
 
-<p align="left">
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/yourusername?style=social" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/chamilwork" target="_blank">
-    <img src="https://img.shields.io/github/followers/chamilwork?style=social" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Profile-purple?style=social" alt="Instagram" />
-  </a>
-</p>
-
 ---
 
 # 📊 GitHub Stats
