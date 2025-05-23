@@ -45,17 +45,31 @@ Here are my main coding profiles and ways to connect:
 
 # 📊 Most Used Languages
 
-These charts show my most used programming languages based on GitHub stats.
+## 📖 **Study Account Stats**
 
-## Study Account
+These are the most used programming languages in my **Study Account** based on my GitHub activity. They reflect my personal learning journey and the projects I’ve been working on during my studies. The following chart highlights the languages I am most proficient in for academic and personal projects:
 
 ![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilStudy&layout=compact&langs_count=8&theme=tokyonight)
 
-## Work Account
+## 📈 **Work Account Stats**
 
-![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&theme=tokyonight)
+Here are the programming languages I use most in my **Work Account**. These stats reflect my professional projects, contributions to open source, and collaborations with international teams. The following chart displays the languages that are central to my work in the tech industry:
+
+![Top Languages - Work](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&theme=tokyonight)
+
+---
+
+## 🧑‍💻 **GitHub Stats**
+
+### 📚 **Study Account Stats**
+
+Below are the global statistics for my **Study Account** on GitHub. It includes the total number of repositories, contributions, and activity over time. This gives an overview of my academic progress and my engagement with coding and software development:
 
 ![ChamilStudy Stats](https://github-readme-stats.vercel.app/api?username=ChamilStudy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
+
+### 💼 **Work Account Stats**
+
+These are the global GitHub statistics for my **Work Account**. They represent my work-related contributions, open-source activity, and collaborations with other professionals. The chart shows the total number of repositories, stars, commits, and more, offering insight into my professional journey:
 
 ![ChamilJose Stats](https://github-readme-stats.vercel.app/api?username=ChamilJose&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
 
@@ -127,4 +141,5 @@ These charts show my most used programming languages based on GitHub stats.
   <img src="https://img.shields.io/badge/Trello-121212?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
   <img src="https://img.shields.io/badge/Confluence-121212?style=for-the-badge&logo=confluence&logoColor=172B4D" alt="Confluence" />
   <img src="https://img.shields.io/badge/Jira-121212?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-121212?style=for-the-badge
+  <img src="https://img.shields.io/badge/Microsoft_Teams-121212?style=for-the-badge&logo=microsoftteams&logoColor=6264A7" alt="Teams" />
+</p>
