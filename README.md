@@ -49,15 +49,15 @@ These charts show my most used programming languages based on GitHub stats.
 
 ## Study Account
 
-![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilStudy&layout=compact&langs_count=8&theme=dark)
+![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilStudy&layout=compact&langs_count=8&theme=tokyonight)
 
 ## Work Account
 
-![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&theme=dark)
+![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&theme=tokyonight)
 
-![ChamilStudy Stats](https://github-readme-stats.vercel.app/api?username=ChamilStudy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+![ChamilStudy Stats](https://github-readme-stats.vercel.app/api?username=ChamilStudy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
 
-![ChamilJose Stats](https://github-readme-stats.vercel.app/api?username=ChamilJose&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+![ChamilJose Stats](https://github-readme-stats.vercel.app/api?username=ChamilJose&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
 
 ---
 
