@@ -64,62 +64,62 @@ These charts show my most used programming languages based on GitHub stats.
 ## 🧑‍💻 Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=java&logoColor=red" alt="Java" />
-  <img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-121212?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
-  <img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6)
+  ![Java](https://iconduck.com/icons/27539/java)
+  ![C](https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=A8B9CC)
+  ![C++](https://img.shields.io/badge/C%2B%2B-121212?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+  ![C#](https://img.shields.io/badge/C%23-121212?style=for-the-badge&logo=csharp&logoColor=239120)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+  ![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=FFD43B)
+  ![PHP](https://img.shields.io/badge/PHP-121212?style=for-the-badge&logo=php&logoColor=777BB4)
 </p>
 
 ## ⚙️ Frameworks
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-121212?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+  ![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=next.js&logoColor=ffffff)
+  ![Angular](https://img.shields.io/badge/Angular-121212?style=for-the-badge&logo=angular&logoColor=DD0031)
 </p>
 
 ## 🧱 Others (Markup & Style)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  ![HTML5](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6)
 </p>
 
 ## 🎨 Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Tailwind CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-121212?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 </p>
 
 ## 🖌️ Design
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Penpot-121212?style=for-the-badge&logo=penpot&logoColor=ffffff" alt="Penpot" />
-  <img src="https://img.shields.io/badge/Affinity Suite-121212?style=for-the-badge&logo=affinitydesigner&logoColor=ffffff" alt="Affinity Suite" />
-  <img src="https://img.shields.io/badge/Adobe Suite-121212?style=for-the-badge&logo=adobecreativecloud&logoColor=FF0000" alt="Adobe Suite" />
-  <img src="https://img.shields.io/badge/DaVinci Resolve-121212?style=for-the-badge&logo=blackmagicdesign&logoColor=FF9E00" alt="DaVinci Resolve" />
+  ![Figma](https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=F24E1E)
+  ![Penpot](https://img.shields.io/badge/Penpot-121212?style=for-the-badge&logo=penpot&logoColor=ffffff)
+  ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-121212?style=for-the-badge&logo=affinitydesigner&logoColor=ffffff)
+  ![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-121212?style=for-the-badge&logo=affinityphoto&logoColor=ffffff)
+  ![Adobe Creative Cloud](https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_Creative_Cloud_logo_2019.svg)
+  ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-121212?style=for-the-badge&logo=blackmagicdesign&logoColor=FF9E00)
 </p>
 
 ## 🧠 Productivity
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Notion-121212?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion" />
-  <img src="https://img.shields.io/badge/Trello-121212?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
-  <img src="https://img.shields.io/badge/Confluence-121212?style=for-the-badge&logo=confluence&logoColor=172B4D" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Jira-121212?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
-  <img src="https://img.shields.io/badge/Microsoft Teams-121212?style=for-the-badge&logo=microsoftteams&logoColor=6264A7" alt="Teams" />
-  <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+  ![Notion](https://img.shields.io/badge/Notion-121212?style=for-the-badge&logo=notion&logoColor=FFFFFF)
+  ![Trello](https://img.shields.io/badge/Trello-121212?style=for-the-badge&logo=trello&logoColor=0079BF)
+  ![Confluence](https://img.shields.io/badge/Confluence-121212?style=for-the-badge&logo=confluence&logoColor=172B4D)
+  ![Jira](https://img.shields.io/badge/Jira-121212?style=for-the-badge&logo=jira&logoColor=0052CC)
+  ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-121212?style=for-the-badge&logo=microsoftteams&logoColor=6264A7)
+  ![Discord](https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=5865F2)
 </p>
 
 ## 📘 Other
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LaTeX-121212?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Markdown-121212?style=for-the-badge&logo=markdown&logoColor=FFFFFF" alt="Markdown" />
-</p>
+  ![LaTeX](https://img.shields.io/badge/LaTeX-121212?style=for-the-badge&logo=
+::contentReference[oaicite:24]{index=24}
