@@ -27,21 +27,17 @@ _January 2023 - June 2023_
 
 ---
 
-# 📚 GitHub Profiles & Contact
+## 📚 **GitHub & Contact**
 
-Here are my main coding profiles and ways to connect:
+### 🖥️ **GitHub Profiles**
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
-  [Study Account](https://github.com/chamilstudy/) — Personal learning and project repository.
+- **[Study Account](https://github.com/chamilstudy/)**: Personal learning and project repository.
+- **[Work Account](https://github.com/chamilwork/)**: Professional projects and collaborations.
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
-  [Work Account](https://github.com/chamilwork/) — Professional projects and collaborations.
+### 🔗 **Connect with Me**
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
-  [LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details) — Connect professionally.
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="20" height="20" style="vertical-align:middle; margin-right:8px;" />  
-  [chamil.workacc@gmail.com](mailto:chamil.workacc@gmail.com) — Feel free to email me.
+- **[LinkedIn](https://www.linkedin.com/in/chamilwork/?trk=opento_sprofile_details)**: Let's connect professionally!
+- **Email**: [chamil.workacc@gmail.com](mailto:chamil.workacc@gmail.com)
 
 ---
 
