@@ -124,3 +124,41 @@ These charts show my most used programming languages based on GitHub stats.
   <img src="https://img.shields.io/badge/Confluence-121212?style=for-the-badge&logo=confluence&logoColor=172B4D" alt="Confluence" />
   <img src="https://img.shields.io/badge/Jira-121212?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
   <img src="https://img.shields.io/badge/Microsoft_Teams-121212?style=for-the-badge
+
+## 📊 **GitHub Stats & Contributions**
+
+### 📈 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChamilJose&show_icons=true&count_private=true&hide_title=true)
+
+### 🔢 **Top Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=10&hide=html)
+
+### 📅 **GitHub Contributions**
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ChamilJose)
+
+### 📅 **Contributions by Weekday**
+
+![Contributions by Weekday](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&hide=html&langs_count=5)
+
+### 🏆 **GitHub Trophies**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ChamilJose)
+
+### 🧮 **Recent Activity**
+
+![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ChamilJose)
+
+### 📈 **GitHub Streak**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChamilJose)
+
+### 🖥️ **Top Repositories**
+
+![Top Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&hide=HTML)
+
+### 💬 **GitHub Issues**
+
+![GitHub Issues](https://github-readme-stats.vercel.app/api/wakatime?username=ChamilJose)
