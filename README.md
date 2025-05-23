@@ -133,6 +133,5 @@ Stats for my **Work Account** on GitHub, showing professional projects and contr
   <img src="https://img.shields.io/badge/Trello-121212?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
   <img src="https://img.shields.io/badge/Confluence-121212?style=for-the-badge&logo=confluence&logoColor=172B4D" alt="Confluence" />
   <img src="https://img.shields.io/badge/Jira-121212?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
-  <<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Teams_logo.svg" alt="Microsoft Teams" width="30" />
-
+  <img src="https://img.shields.io/badge/Microsoft_Teams-121212?style=for-the-badge&logo=microsoftteams&logoColor=2D72D9" alt="Microsoft Teams" />
 </p>
