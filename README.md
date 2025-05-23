@@ -29,6 +29,8 @@ _January 2023 - June 2023_
 
 ## 📚 **GitHub & Contact**
 
+Here are my main coding profiles and ways to connect:
+
 ### 🖥️ **GitHub Profiles**
 
 - **[Study Account](https://github.com/chamilstudy/)**: Personal learning and project repository.
