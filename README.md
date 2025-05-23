@@ -1,9 +1,13 @@
 # 👋 About Me
 
-I am a Computer Engineering student at **ULPGC** (University of Las Palmas de Gran Canaria).  
-Passionate about software development and its role in solving real-world problems.  
-I had the opportunity to study abroad in Poland via the Erasmus program at the **Cracow University of Technology**,  
-which broadened my perspective and deepened my interest in international tech collaboration.
+Hi there! I’m a **Computer Engineering** student at **ULPGC** (University of Las Palmas de Gran Canaria).  
+I’m passionate about **software development**, especially when it’s used to solve real-world problems and improve people's lives. Alongside my engineering journey, I’ve been learning **graphic design** on my own, which allows me to bring a creative edge to the tech world. I’ve always been fascinated by how good design can complement functionality, and I strive to merge the two in web and app development projects.
+
+My experience goes beyond just coding — I also have a deep interest in **photography**, which has helped me develop an eye for detail and aesthetics, both in visual design and user interface creation. This combination of technical and creative skills allows me to work on holistic projects where **UX/UI** and **functionality** come together seamlessly.
+
+I also had the incredible opportunity to study abroad in **Poland** through the **Erasmus program** at **Cracow University of Technology**, where I learned advanced programming techniques, gained exposure to international tech ecosystems, and worked with a diverse team of students. This experience broadened my perspective and reinforced my passion for collaboration across cultures.
+
+Whether it’s **web development**, **app design**, or **UI/UX**, I’m always exploring new technologies and looking for ways to enhance user experiences. My goal is to build beautiful, functional applications that people love to use.
 
 ---
 
@@ -49,13 +53,27 @@ Here are my main coding profiles and ways to connect:
 
 These stats represent my contributions and activity on GitHub for my **Study Account**. It highlights my personal projects, academic learning, and the skills I’ve developed through my university studies.
 
-![ChamilStudy Stats](https://github-readme-stats.vercel.app/api?username=ChamilStudy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    ![ChamilStudy Stats](https://github-readme-stats.vercel.app/api?username=ChamilStudy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
+  </div>
+  <div>
+    ![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilStudy&layout=compact&langs_count=8&theme=tokyonight)
+  </div>
+</div>
 
 ## 📈 **Work Account**
 
 These stats reflect my **Work Account** on GitHub, showcasing my professional projects, collaborations, and contributions to open-source. It provides insight into my work in the tech industry.
 
-![ChamilJose Stats](https://github-readme-stats.vercel.app/api?username=ChamilJose&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    ![ChamilJose Stats](https://github-readme-stats.vercel.app/api?username=ChamilJose&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
+  </div>
+  <div>
+    ![Top Languages - Work](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&theme=tokyonight)
+  </div>
+</div>
 
 ---
 
