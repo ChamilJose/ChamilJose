@@ -64,7 +64,7 @@ These charts show my most used programming languages based on GitHub stats.
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=java&logoColor=red" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-121212?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Java" />
   <img src="https://img.shields.io/badge/C-121212?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-121212?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
@@ -79,6 +79,18 @@ These charts show my most used programming languages based on GitHub stats.
   <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-121212?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+</p>
+
+## 🧱 Databases & Cloud
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS-121212?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-121212?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=postgresql&logoColor=336791" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-121212?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-121212?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
 </p>
 
 ## 🧱 Others (Markup & Style)
@@ -99,9 +111,9 @@ These charts show my most used programming languages based on GitHub stats.
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-121212?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Penpot-121212?style=for-the-badge&logo=penpot&logoColor=ffffff" alt="Penpot" />
-  <img src="https://img.shields.io/badge/Affinity Suite-121212?style=for-the-badge&logo=affinitydesigner&logoColor=ffffff" alt="Affinity Suite" />
-  <img src="https://img.shields.io/badge/Adobe Suite-121212?style=for-the-badge&logo=adobecreativecloud&logoColor=FF0000" alt="Adobe Suite" />
-  <img src="https://img.shields.io/badge/DaVinci Resolve-121212?style=for-the-badge&logo=blackmagicdesign&logoColor=FF9E00" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/Affinity_Designer-121212?style=for-the-badge&logo=affinitydesigner&logoColor=00A9E0" alt="Affinity Suite" />
+  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-121212?style=for-the-badge&logo=adobecreativecloud&logoColor=FF0000" alt="Adobe Suite" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-121212?style=for-the-badge&logo=blackmagicdesign&logoColor=FF9E00" alt="DaVinci Resolve" />
 </p>
 
 ## 🧠 Productivity
@@ -111,13 +123,4 @@ These charts show my most used programming languages based on GitHub stats.
   <img src="https://img.shields.io/badge/Trello-121212?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
   <img src="https://img.shields.io/badge/Confluence-121212?style=for-the-badge&logo=confluence&logoColor=172B4D" alt="Confluence" />
   <img src="https://img.shields.io/badge/Jira-121212?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
-  <img src="https://img.shields.io/badge/Microsoft Teams-121212?style=for-the-badge&logo=microsoftteams&logoColor=6264A7" alt="Teams" />
-  <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
-</p>
-
-## 📘 Other
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LaTeX-121212?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Markdown-121212?style=for-the-badge&logo=markdown&logoColor=FFFFFF" alt="Markdown" />
-</p>
+  <img src="https://img.shields.io/badge/Microsoft_Teams-121212?style=for-the-badge
