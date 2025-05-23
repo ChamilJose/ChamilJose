@@ -1,13 +1,10 @@
 # 👋 About Me
 
-Hi there! I’m a **Computer Engineering** student at **ULPGC** (University of Las Palmas de Gran Canaria).  
-I’m passionate about **software development**, especially when it’s used to solve real-world problems and improve people's lives. Alongside my engineering journey, I’ve been learning **graphic design** on my own, which allows me to bring a creative edge to the tech world. I’ve always been fascinated by how good design can complement functionality, and I strive to merge the two in web and app development projects.
+Hi! I’m a **Computer Engineering** student at **ULPGC** with a passion for **software development** and **graphic design**. I enjoy blending technical skills with creativity to build **web** and **app** solutions that solve real-world problems and improve user experiences.
 
-My experience goes beyond just coding — I also have a deep interest in **photography**, which has helped me develop an eye for detail and aesthetics, both in visual design and user interface creation. This combination of technical and creative skills allows me to work on holistic projects where **UX/UI** and **functionality** come together seamlessly.
+Alongside coding, I have a strong interest in **photography**, which enhances my eye for detail in **UI/UX** design. I also had the opportunity to study abroad in **Poland** through the **Erasmus program**, where I gained valuable insights into advanced programming and international tech ecosystems.
 
-I also had the incredible opportunity to study abroad in **Poland** through the **Erasmus program** at **Cracow University of Technology**, where I learned advanced programming techniques, gained exposure to international tech ecosystems, and worked with a diverse team of students. This experience broadened my perspective and reinforced my passion for collaboration across cultures.
-
-Whether it’s **web development**, **app design**, or **UI/UX**, I’m always exploring new technologies and looking for ways to enhance user experiences. My goal is to build beautiful, functional applications that people love to use.
+I’m always exploring new technologies to create beautiful, functional applications that users love.
 
 ---
 
