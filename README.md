@@ -51,7 +51,7 @@ Here are my main coding profiles and ways to connect:
 
 ## 📖 **Study Account**
 
-These stats represent my contributions and activity on GitHub for my **Study Account**. It highlights my personal projects, academic learning, and the skills I’ve developed through my university studies.
+Stats for my **Study Account** on GitHub, showcasing my personal projects and academic work.
 
 | GitHub Stats                                                                                                                                                       | Most Used Languages                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +59,7 @@ These stats represent my contributions and activity on GitHub for my **Study Acc
 
 ## 📈 **Work Account**
 
-These stats reflect my **Work Account** on GitHub, showcasing my professional projects, collaborations, and contributions to open-source. It provides insight into my work in the tech industry.
+Stats for my **Work Account** on GitHub, showing professional projects and contributions.
 
 | GitHub Stats                                                                                                                                                     | Most Used Languages                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
