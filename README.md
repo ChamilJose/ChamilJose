@@ -53,7 +53,7 @@ These charts show my most used programming languages based on GitHub stats.
 
 ## Work Account
 
-![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilStudy&layout=compact&langs_count=8&theme=dark)
+![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&theme=dark)
 
 ---
 
