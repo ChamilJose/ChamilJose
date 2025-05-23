@@ -53,27 +53,17 @@ Here are my main coding profiles and ways to connect:
 
 These stats represent my contributions and activity on GitHub for my **Study Account**. It highlights my personal projects, academic learning, and the skills I’ve developed through my university studies.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    ![ChamilStudy Stats](https://github-readme-stats.vercel.app/api?username=ChamilStudy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
-  </div>
-  <div>
-    ![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilStudy&layout=compact&langs_count=8&theme=tokyonight)
-  </div>
-</div>
+| GitHub Stats                                                                                                                                                       | Most Used Languages                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![ChamilStudy Stats](https://github-readme-stats.vercel.app/api?username=ChamilStudy&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight) | ![Top Languages - Study](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilStudy&layout=compact&langs_count=8&theme=tokyonight) |
 
 ## 📈 **Work Account**
 
 These stats reflect my **Work Account** on GitHub, showcasing my professional projects, collaborations, and contributions to open-source. It provides insight into my work in the tech industry.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    ![ChamilJose Stats](https://github-readme-stats.vercel.app/api?username=ChamilJose&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight)
-  </div>
-  <div>
-    ![Top Languages - Work](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&theme=tokyonight)
-  </div>
-</div>
+| GitHub Stats                                                                                                                                                     | Most Used Languages                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![ChamilJose Stats](https://github-readme-stats.vercel.app/api?username=ChamilJose&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight) | ![Top Languages - Work](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamilJose&layout=compact&langs_count=8&theme=tokyonight) |
 
 ---
 
